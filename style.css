@@ -17,6 +17,13 @@ body {
     justify-content: center;
 }
 
+@media (max-width: 760px) {
+    .container {
+        display: inline-block;
+    }
+
+}
+
 .box {
     background-color: #fff;
     width: 440px;
