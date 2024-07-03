@@ -17,7 +17,7 @@ body {
     justify-content: center;
 }
 
-@media (max-width: 760px) {
+@media (max-width: 1080px) {
     .container {
         display: inline-block;
     }
